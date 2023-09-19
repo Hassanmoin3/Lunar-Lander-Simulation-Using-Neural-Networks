@@ -20,8 +20,8 @@ Data for the model is collected by simulating different goal positions and poten
 
 ## Neural Network Architecture
 The architecture of the MLP neural network comprises three layers:
-- **Input Layer:** Consists of 10 neurons, representing various parameters such as velocity, position, etc.
-- **Hidden Layer:** Features 20 neurons equipped with ReLU (Rectified Linear Unit) activation functions.
+- **Input Layer:** Consists of 2 neurons, representing various parameters such as velocity, position, etc.
+- **Hidden Layer:** Features 2 neurons equipped with ReLU (Rectified Linear Unit) activation functions.
 - **Output Layer:** Comprises 2 neurons responsible for controlling thrust and direction.
 
 ## Installation
